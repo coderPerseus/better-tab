@@ -73,7 +73,7 @@ Release Please 采用 Conventional Commits 解析提交信息并决定版本号�
 常见示例：
 
 ```text
-feat: add quick toggle in popup
+feat: add quick toggle
 fix: handle null storage value
 feat!: migrate settings schema
 
