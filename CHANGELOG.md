@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.4.0](https://github.com/coderPerseus/better-tab/compare/wxt-react-starter-v1.3.0...wxt-react-starter-v1.4.0) (2026-01-29)
+
+
+### Features
+
+* 初始化 home tab ([418e624](https://github.com/coderPerseus/better-tab/commit/418e624c8211ba5eb3eff3a6f42ec39e8cbf18e1))
+* 改名字 ([318d0fc](https://github.com/coderPerseus/better-tab/commit/318d0fc8afa518647db0999882faec53c5976a93))
+* 移除不需要的代码， ([1f2921f](https://github.com/coderPerseus/better-tab/commit/1f2921fd2124a9de83e9b7cc21995832cf3f1b11))
+
 ## [1.3.0](https://github.com/coderPerseus/chrome-extension-starter/compare/wxt-react-starter-v1.2.0...wxt-react-starter-v1.3.0) (2026-01-26)
 
 
