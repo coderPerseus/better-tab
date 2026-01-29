@@ -1,2 +1,16 @@
 appName: Lucky Tab
 appDescription: AI原生的新标签页面
+newtabGreetingMorning: 早上好
+newtabGreetingAfternoon: 下午好
+newtabGreetingEvening: 晚上好
+newtabGreetingNight: 欢迎回来
+newtabShortcutsLabel: 常用
+newtabTopChip: AI 原生 · 新标签
+newtabPlaceholderSearch: 搜索 Google 或输入网址
+newtabPlaceholderGo: 直接打开（例如 example.com）
+newtabModeSearch: 搜索
+newtabModeGo: 打开
+newtabHint: "Tab：切换 · Enter：打开 · Esc：清空"
+newtabAriaLabel: 统一搜索框
+newtabActionLabel: 打开
+newtabFooter: 让每一次打开都更从容。

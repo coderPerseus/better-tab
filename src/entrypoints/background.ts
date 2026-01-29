@@ -1,6 +1,6 @@
-import { RPCHandler } from "@orpc/server/message-port"
 import { ORPC_PORT_NAME } from "@/shared/orpc/constants"
 import { router } from "@/shared/orpc/router"
+import { RPCHandler } from "@orpc/server/message-port"
 
 const handler = new RPCHandler(router)
 

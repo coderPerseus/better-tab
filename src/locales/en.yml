@@ -1,2 +1,16 @@
 appName: Lucky Tab
 appDescription: AI原生的新标签页面
+newtabGreetingMorning: Good morning
+newtabGreetingAfternoon: Good afternoon
+newtabGreetingEvening: Good evening
+newtabGreetingNight: Welcome back
+newtabShortcutsLabel: Shortcuts
+newtabTopChip: AI-native home
+newtabPlaceholderSearch: Search Google or type a URL
+newtabPlaceholderGo: Open a site (example.com)
+newtabModeSearch: Search
+newtabModeGo: Go
+newtabHint: "Tab: switch · Enter: open · Esc: clear"
+newtabAriaLabel: Omnibar
+newtabActionLabel: Open
+newtabFooter: Built for fast, calm starts.
